@@ -1,2 +1,3 @@
 Hi
 MAC - cmd + shift + .
+I am writing things 
